@@ -39,13 +39,13 @@ AntdvPro is a complete set of enterprise-level mid-backend front-end/design solu
 
 ## Community
 
-QQ Group: [939791772](https://qm.qq.com/cgi-bin/qm/qr?k=dZMUtNNxv0BLxQwOoZwGQ7nR24GT-24s&authKey=F2Rpv5Gez5nD7Pr5HrYalfd3J6T9PEcu2TJ/femkp9ZQF+YhlvvYyrvJone8BoeT&noverify=0)
+QQ Group: apply wechat group
 
 Wechat: aibayanyu2022
 
 Discord: [discord](https://discord.gg/tPb4G6gXmm)
 
-### WeChatGroup 备注【加群】
+### WeChatGroup 备注【加群】（需要加一群可以先加作者微信）
 
 <img src="https://git.lingyu.org.cn/yanyu/images/raw/branch/main/wx-group.jpg" width="300">
 
